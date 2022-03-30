@@ -132,25 +132,7 @@
                 android:backgroundTint="@color/white"
                 android:foreground="@drawable/icons8_facebook_64"
                 android:foregroundGravity="center"
-                android:contentDescription="@string/facebook" />
-
-            <com.google.android.material.floatingactionbutton.FloatingActionButton
-                android:layout_height="wrap_content"
-                android:layout_width="wrap_content"
-                android:backgroundTint="@color/white"
-                android:layout_marginHorizontal="20dp"
-                android:foreground="@drawable/icons8_google_64"
-                android:foregroundGravity="center"
-                android:contentDescription="@string/facebook" />
-
-            <com.google.android.material.floatingactionbutton.FloatingActionButton
-                android:layout_height="wrap_content"
-                android:layout_width="wrap_content"
-                android:backgroundTint="@color/white"
-                android:foreground="@drawable/icons8_twitter_48"
-                android:foregroundGravity="center"
-                android:contentDescription="@string/facebook" />
-
+                android:contentDescription="facebook" />
         </LinearLayout>
 
 
